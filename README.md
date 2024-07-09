@@ -3,13 +3,15 @@
 <p>
 This project focuses on building a robust admin dashboard using the MERN stack (MongoDB, Express.js, React, Node.js) with data visualization capabilities. The dashboard provides insights and supports decision-making processes through various visualizations.
 </p>
+<br>
 <h2>Setup</h2>
 <h4>Clone the repository</h4>
 <br>
 
 ```git clone git@github.com:Rahul93102/MernCharts.git ```
-
+<br>
 <h2> install dependencies </h2>
+<br>
 
 ```npm install ```
 Start the development server
