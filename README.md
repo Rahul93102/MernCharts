@@ -8,9 +8,9 @@ Setup
 
 install dependencies
 
-'''npm install '''
+```npm install ```
 Start the development server
-''' npm start '''
+``` npm start ```
 
 <br>
 Images
