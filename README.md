@@ -1,6 +1,18 @@
+MERN React Admin Dashboard
 
+This project focuses on building a robust admin dashboard using the MERN stack (MongoDB, Express.js, React, Node.js) with data visualization capabilities. The dashboard provides insights and supports decision-making processes through various visualizations.
+<br>
+Setup 
 
+''' Clone the repository: git clone git@github.com:Rahul93102/MernCharts.git '''
 
+install dependencies
+
+'''npm install '''
+Start the development server
+''' npm start '''
+
+<br>
 Images
 
 <img width="960" alt="Screenshot 2024-07-10 at 2 28 39 AM" src="https://github.com/Rahul93102/MernCharts/assets/132360698/ad10f4d7-e24b-4023-9b39-77adfeef35a8">
@@ -12,3 +24,6 @@ Images
 <img width="954" alt="Screenshot 2024-07-10 at 2 29 58 AM" src="https://github.com/Rahul93102/MernCharts/assets/132360698/818b4a0a-ec79-47fc-bdf3-4be46dec6240">
 <img width="961" alt="Screenshot 2024-07-10 at 2 30 04 AM" src="https://github.com/Rahul93102/MernCharts/assets/132360698/e046d9c1-289c-4db5-a9bd-3d33bd1f4a5c">
 <img width="951" alt="Screenshot 2024-07-10 at 2 30 14 AM" src="https://github.com/Rahul93102/MernCharts/assets/132360698/2b82a838-2254-4e71-901c-b07cc925acda">
+<br>
+
+
