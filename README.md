@@ -1,4 +1,3 @@
-echo "
 # MERN React Admin Dashboard
 
 This project focuses on building a robust admin dashboard using the MERN stack (MongoDB, Express.js, React, Node.js) with data visualization capabilities. The dashboard provides insights and supports decision-making processes through various visualizations.
@@ -48,4 +47,4 @@ npm start
 ![Screenshot 7](https://github.com/Rahul93102/MernCharts/assets/132360698/818b4a0a-ec79-47fc-bdf3-4be46dec6240)
 ![Screenshot 8](https://github.com/Rahul93102/MernCharts/assets/132360698/e046d9c1-289c-4db5-a9bd-3d33bd1f4a5c)
 ![Screenshot 9](https://github.com/Rahul93102/MernCharts/assets/132360698/2b82a838-2254-4e71-901c-b07cc925acda)
-"
+
