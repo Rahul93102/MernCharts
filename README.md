@@ -5,22 +5,21 @@ This project focuses on building a robust admin dashboard using the MERN stack (
 ## Setup
 
 ### Clone the repository
-
-\`\`\`bash
+```html
 git clone git@github.com:Rahul93102/MernCharts.git
-\`\`\`
+```
 
 ### Install dependencies
 
-\`\`\`bash
+```html
 npm install
-\`\`\`
+```
 
 ### Start the development server
 
-\`\`\`bash
+```html
 npm start
-\`\`\`
+```
 
 ## Features
 
